@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxiang Wang's Homepage"
-description              : "Yuxiang Wang's Homepage"
+description              : "Master in NJUPT. Focuing on computer architecture and SLAM." 
 repository               : "hahayuxiang/hahayuxiang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxiang Wang"
-  avatar           : "images/hahayuxiang.jpg"
-  bio              : "Lorem ipsum College"
+  name             : "Yuxiang Wang(汪宇翔)"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "NJUPT"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "hahayuxiang"
   google_plus      :
   keybase          :
   instagram        :
